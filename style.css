@@ -1,0 +1,31 @@
+h1{
+    color: rgb(45, 175, 77);
+    text-align: center;
+}
+
+img{
+    width: 250px;
+}
+
+h2{
+
+    color: brown;
+    text-align: center;
+}
+
+.text_benefits{
+    color: darkslateblue;
+  
+}
+
+p{
+    color: rgb(43, 45, 48);
+}
+
+.box{
+    width: 200px;
+    background-color: cornflowerblue;
+    margin-left: 30px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
